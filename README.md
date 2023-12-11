@@ -1,4 +1,4 @@
 You can find me on Discord with the same username @37o1
 I'm working on interesting stuff, games, os, lowend raytracing, bots and almost everything.
-Currently working on Argon
+Currently working on Argon.
 More on my [site](https://bit.ly/37o1)
